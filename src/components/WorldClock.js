@@ -18,7 +18,7 @@ const WorldClock = () => {
     <div className="time-zone-container">
       <span className="time-zone-container">
 
-      <h1>Clock krishna123</h1>
+      <h1>Clock krishna1234</h1>
       <h1>{time}</h1>
       </span>
       <span className="time-zone-container">
